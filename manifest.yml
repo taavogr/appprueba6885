@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: practicaphp201416885
-  host: practicaphp201416885
+  name: appprueba6885
+  host: appprueba6885
   disk_quota: 1024M
